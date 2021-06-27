@@ -26,7 +26,7 @@ main {
     margin-inline-start: 10%;
 }
 #envios {
-    background-image: url(image/delivery.jpg);
+    background-image: url(images/delivery.jpg);
     width: 490px;
     height: 350px;
     color: red;
