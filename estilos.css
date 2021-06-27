@@ -26,7 +26,7 @@ main {
     margin-inline-start: 10%;
 }
 #envios {
-    background-image: url(image/delivery.jpg);
+    background-image: url(Image/delivery.jpg);
     width: 490px;
     height: 350px;
     color: red;
@@ -61,8 +61,14 @@ h2, ol {
     font-size: 16px;
     text-align: start;
     margin-left: 10%;
+    margin-top: 10%;
 }
 
+[alt="ingredientes"] {
+    position: absolute;
+    left: 75%;
+    top: 267px;
+}
 footer {
     background-color: #222222;
     color: white;
